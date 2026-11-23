@@ -1,0 +1,3 @@
+Used laptop python. Need to check if final is actually final.
+There was a weird error with the CSV once.
+Maybe change numbers at some point.
